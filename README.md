@@ -1,5 +1,5 @@
 # Baseball-Swing-Analysis-for-School-Level-Players-in-Sri-Lanka-Using-Deep-Neural-Networks
-Baseball Swing Analysis for School Level Players in Sri Lanka Using Deep Neural Networks
+
 ![Maleesha_FYP_Presentation 001](https://github.com/MaleeshaDiluminda/Baseball-Swing-Analysis-for-School-Level-Players-in-Sri-Lanka-Using-Deep-Neural-Networks/assets/61634241/26443dd6-857a-4d4a-8a6d-0f83be6b73c0)
 ![Maleesha_FYP_Presentation 002](https://github.com/MaleeshaDiluminda/Baseball-Swing-Analysis-for-School-Level-Players-in-Sri-Lanka-Using-Deep-Neural-Networks/assets/61634241/9af5de43-6b1c-41df-b893-40270e952c53)
 ![Maleesha_FYP_Presentation 003](https://github.com/MaleeshaDiluminda/Baseball-Swing-Analysis-for-School-Level-Players-in-Sri-Lanka-Using-Deep-Neural-Networks/assets/61634241/148238f3-a833-4bb4-8762-1706c0d831b4)
